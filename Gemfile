@@ -51,4 +51,6 @@ end
 group :test do
   gem 'rspec'
   gem 'webrat'
+  gem 'selenium-webdriver'
+  gem 'capybara'
 end

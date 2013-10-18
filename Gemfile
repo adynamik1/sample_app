@@ -54,3 +54,5 @@ group :test do
   gem 'selenium-webdriver'
   gem 'capybara'
 end
+
+gem 'bootstrap-sass'

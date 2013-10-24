@@ -56,3 +56,4 @@ group :test do
 end
 
 gem 'bootstrap-sass'
+gem 'bcrypt-ruby', '~> 3.0.0'
